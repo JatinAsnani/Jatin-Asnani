@@ -1,0 +1,126 @@
+{
+  "destinations": [
+    {
+      "id": "dest-1",
+      "title": "Kyoto, Japan",
+      "image": "bg-gradient-to-br from-red-900 to-black",
+      "rating": 4.9,
+      "reviews": "12.4k",
+      "tags": ["Culture", "Nature"]
+    },
+    {
+      "id": "dest-2",
+      "title": "Swiss Alps",
+      "image": "bg-gradient-to-br from-blue-900 to-slate-900",
+      "rating": 4.8,
+      "reviews": "8.2k",
+      "tags": ["Adventure", "Nature"]
+    },
+    {
+      "id": "dest-3",
+      "title": "Bali, Indonesia",
+      "image": "bg-gradient-to-br from-emerald-900 to-teal-900",
+      "rating": 4.7,
+      "reviews": "15.1k",
+      "tags": ["Relaxation", "Culture"]
+    },
+    {
+      "id": "dest-4",
+      "title": "Paris, France",
+      "image": "bg-gradient-to-br from-purple-900 to-indigo-900",
+      "rating": 4.6,
+      "reviews": "20.5k",
+      "tags": ["Culture", "Luxury"]
+    },
+    {
+      "id": "dest-5",
+      "title": "Rome, Italy",
+      "image": "bg-gradient-to-br from-orange-800 to-red-900",
+      "rating": 4.8,
+      "reviews": "18.2k",
+      "tags": ["Culture", "Food"]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "city": "Kyoto",
+      "title": "Traditional Tea Ceremony",
+      "duration": "2h",
+      "price": "$45",
+      "rating": 4.9,
+      "category": "Culture",
+      "image": "bg-gradient-to-tr from-green-800 to-black"
+    },
+    {
+      "id": "exp-2",
+      "city": "Kyoto",
+      "title": "Fushimi Inari Shrine Tour",
+      "duration": "3h",
+      "price": "$30",
+      "rating": 4.8,
+      "category": "Culture",
+      "image": "bg-gradient-to-tr from-red-800 to-orange-900"
+    },
+    {
+      "id": "exp-3",
+      "city": "Swiss Alps",
+      "title": "Helicopter Tour of Matterhorn",
+      "duration": "1h",
+      "price": "$250",
+      "rating": 5.0,
+      "category": "Luxury",
+      "image": "bg-gradient-to-tr from-slate-300 to-blue-900"
+    },
+    {
+      "id": "exp-4",
+      "city": "Bali",
+      "title": "Ubud Jungle Swing & Rice Terraces",
+      "duration": "4h",
+      "price": "$35",
+      "rating": 4.7,
+      "category": "Adventure",
+      "image": "bg-gradient-to-tr from-emerald-600 to-green-900"
+    },
+    {
+      "id": "exp-5",
+      "city": "Paris",
+      "title": "Seine River Dinner Cruise",
+      "duration": "3h",
+      "price": "$120",
+      "rating": 4.8,
+      "category": "Luxury",
+      "image": "bg-gradient-to-tr from-blue-900 to-indigo-900"
+    },
+    {
+      "id": "exp-6",
+      "city": "Paris",
+      "title": "Louvre Museum Skip-the-Line",
+      "duration": "4h",
+      "price": "$65",
+      "rating": 4.6,
+      "category": "Culture",
+      "image": "bg-gradient-to-tr from-amber-700 to-red-900"
+    },
+    {
+      "id": "exp-7",
+      "city": "Rome",
+      "title": "Colosseum Underground Tour",
+      "duration": "3h",
+      "price": "$85",
+      "rating": 4.9,
+      "category": "Culture",
+      "image": "bg-gradient-to-tr from-orange-800 to-yellow-900"
+    },
+    {
+      "id": "exp-8",
+      "city": "Rome",
+      "title": "Pasta & Tiramisu Cooking Class",
+      "duration": "3h",
+      "price": "$75",
+      "rating": 4.8,
+      "category": "Culture",
+      "image": "bg-gradient-to-tr from-red-700 to-yellow-800"
+    }
+  ]
+}
